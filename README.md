@@ -28,6 +28,15 @@ Built by [Tom Granot](https://consume.granot.io) — from deep experience with e
 
 Or clone directly: `git clone https://github.com/TomGranot/hubspot-admin-skills.git`
 
+### Staying up to date with the original repo
+
+If you forked this repo, you can pull in the latest updates from the original at any time:
+
+```bash
+git fetch upstream
+git merge upstream/main
+```
+
 ### 2. Audit your portal
 
 ```
